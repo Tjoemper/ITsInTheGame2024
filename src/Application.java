@@ -14,7 +14,7 @@ public class Application implements Runnable {
 
         // Zet een schip op het bord (bijvoorbeeld een schip van lengte 3)
         Battleship.placeShip(2, 2, 3, true); // Horizontaal schip van lengte 3 op positie (2,2)
-
+        //kanker
         // Spel loop
         int turns = 0;
         boolean gameOver = false;
